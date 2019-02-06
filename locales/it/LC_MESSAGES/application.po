@@ -1,0 +1,525 @@
+# German translations for PROJECT.
+# Copyright (C) 2018 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2019-02-03 12:59+0530\n"
+"PO-Revision-Date: 2018-10-02 14:05+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#: src/services/email/asset-statement-email.js:22
+msgid "application.asset.statement.email.subject"
+msgstr "Lo stato patrimoniale è disponibile"
+
+#: src/services/lifeware.service.js:294
+#: src/services/product-dashboard.v2.service.js:440
+msgid "application.dashboard.actions.label.deposit"
+msgstr "Entrate"
+
+#: src/services/lifeware.service.js:285
+#: src/services/product-dashboard.v2.service.js:450
+msgid "application.dashboard.actions.label.pay_off"
+msgstr "Uscite"
+
+#: src/services/lifeware.service.js:321 src/services/lifeware.service.js:346
+#: src/services/lifeware.service.js:377
+msgid "application.dashboard.categories.button.edit"
+msgstr "Modifica"
+
+#: src/services/lifeware.service.js:352
+msgid "application.dashboard.categories.button.pause"
+msgstr "Sospendi"
+
+#: src/services/lifeware.service.js:369
+msgid "application.dashboard.categories.subtitle_left.risk_life_insurance"
+msgstr ""
+"Die Auszahlung im Falle deines Ablebens setzt sich aus deinem "
+"Anlagevermögen zuzüglich 10% zusammen"
+
+#: src/services/lifeware.service.js:314
+msgid "application.dashboard.categories.subtitle_left.risk_profile"
+msgstr "Stelle dein Riskoprofil ein"
+
+#: src/services/lifeware.service.js:338
+msgid "application.dashboard.categories.subtitle_left.saving_plan"
+msgstr "Regelmäßig Geld zur Seite legen"
+
+#: src/services/lifeware.service.js:370
+msgid "application.dashboard.categories.subtitle_right.risk_life_insurance"
+msgstr "EINMALIG"
+
+#: src/services/lifeware.service.js:339
+msgid "application.dashboard.categories.subtitle_right.saving_plan"
+msgstr "Pro Monat"
+
+#: src/services/lifeware.service.js:361 src/services/lifeware.service.js:367
+msgid "application.dashboard.categories.title.risk_life_insurance"
+msgstr "Aktuelle Todesfallleistung"
+
+#: src/services/lifeware.service.js:312
+msgid "application.dashboard.categories.title.risk_profile"
+msgstr "Risikoprofil"
+
+#: src/services/lifeware.service.js:336
+msgid "application.dashboard.categories.title.saving_plan"
+msgstr "Piano di risparmio"
+
+#: src/services/email/first-transaction-email.js:21
+msgid "application.first.transaction.email.subject"
+msgstr "La tua nuova polizza assicurativa è disponibile"
+
+#: src/services/email/money-transfer-email.js:29
+msgid "application.money_transfer_email.text.subject"
+msgstr "Starte deine Altersvorsorge"
+
+#: src/services/product-dashboard.v2.service.js:280
+msgid "application.notification.description.transaction.pending"
+msgstr ""
+"Sobald wir deine Überweisung erhalten haben, werden wir dich "
+"benachrichtigen. Ab dann kannst du deine Police abholen und deinen "
+"Vermögenszuwachs verfolgen."
+
+#: src/services/product-dashboard.v2.service.js:279
+msgid "application.notification.description.transaction.pending.periodic"
+msgstr ""
+"Sobald deine erste Einzahlung abgewickelt ist, beginnt deine "
+"Versicherung. Wir werden dich benachrichtigen, wenn deine "
+"Versicherungspolice zum Download bereit liegt."
+
+#: src/services/product-dashboard.v2.service.js:274
+msgid "application.notification.title.transaction.pending.periodic"
+msgstr "Deine erste Einzahlung ist in Bearbeitung"
+
+#: src/services/product-dashboard.v2.service.js:276
+msgid "application.notification.title.transaction.pending.singular"
+msgstr "Deine erste Überweisung ist noch ausstehend"
+
+#: src/services/order-onboarding.service.js:1163
+msgid "application.onboard.button.text.change"
+msgstr "Bearbeiten"
+
+#: src/services/order-onboarding.service.js:1153
+#: src/services/order-onboarding.service.js:1175
+#: src/services/order-onboarding.service.js:1204
+#: src/services/order-onboarding.service.js:1222
+#: src/services/order-onboarding.service.js:1240
+msgid "application.onboard.button.text.edit"
+msgstr "Bearbeiten"
+
+#: src/services/order-onboarding.service.js:1243
+msgid "application.onboard.health.checkbox_1"
+msgstr "Ich hatte in den letzten 10 Jahren keine der genannten Krankheiten"
+
+#: src/services/order-onboarding.service.js:1242
+msgid "application.onboard.health.checkbox_2"
+msgstr "Ich habe alle Fragen wahrheitsgemäß beantwortet"
+
+#: src/services/order-onboarding.service.js:1208
+msgid "application.onboard.keys.birth_date"
+msgstr "Geburtsdatum"
+
+#: src/services/order-onboarding.service.js:1155
+msgid "application.onboard.keys.text.amount"
+msgstr "Betrag"
+
+#: src/services/order-onboarding.service.js:1227
+msgid "application.onboard.keys.text.country"
+msgstr "Land"
+
+#: src/services/order-onboarding.service.js:1207
+msgid "application.onboard.keys.text.full_name"
+msgstr "Vor- und Nachname"
+
+#: src/services/order-onboarding.service.js:1156
+msgid "application.onboard.keys.text.fund_source"
+msgstr "Herkunft des Betrages"
+
+#: src/services/order-onboarding.service.js:1206
+msgid "application.onboard.keys.text.gender"
+msgstr "Anrede"
+
+#: src/services/order-onboarding.service.js:1211
+msgid "application.onboard.keys.text.industry"
+msgstr "Beruf"
+
+#: src/services/order-onboarding.service.js:1210
+msgid "application.onboard.keys.text.marital_status"
+msgstr "Familienstand"
+
+#: src/services/order-onboarding.service.js:1212
+msgid "application.onboard.keys.text.occupation"
+msgstr "Branche"
+
+#: src/services/order-onboarding.service.js:1157
+msgid "application.onboard.keys.text.payment_reason"
+msgstr "Grund für die Zahlung"
+
+#: src/services/order-onboarding.service.js:1140
+#: src/services/product-dashboard.service.js:44
+#: src/services/product-dashboard.v2.service.js:101
+msgid "application.onboard.keys.text.pension_plan"
+msgstr "Piano pensionistico"
+
+#: src/services/order-onboarding.service.js:1209
+msgid "application.onboard.keys.text.phone"
+msgstr "Telefon"
+
+#: src/services/order-onboarding.service.js:1224
+msgid "application.onboard.keys.text.street_detail"
+msgstr "Straße und Hausnummer"
+
+#: src/services/order-onboarding.service.js:1178
+msgid "application.onboard.keys.text.tax_country"
+msgstr "Ausstellendes Land"
+
+#: src/services/order-onboarding.service.js:1177
+msgid "application.onboard.keys.text.tax_id"
+msgstr "Steuernummer"
+
+#: src/services/order-onboarding.service.js:1226
+msgid "application.onboard.keys.text.zip"
+msgstr "PLZ"
+
+#: src/services/order-onboarding.service.js:1222
+msgid "application.onboard.title.address_details"
+msgstr "Anschrift"
+
+#: src/services/order-onboarding.service.js:1240
+msgid "application.onboard.title.health_details"
+msgstr "Angaben zur Gesundheit"
+
+#: src/services/order-onboarding.service.js:1153
+msgid "application.onboard.title.initial_payment"
+msgstr "Erste Einzahlung"
+
+#: src/services/order-onboarding.service.js:1153
+msgid "application.onboard.title.monthly_payment"
+msgstr "Monatlicher Sparplan"
+
+#: src/services/order-onboarding.service.js:1163
+msgid "application.onboard.title.my_risk_profile"
+msgstr "Mein Risikoprofil"
+
+#: src/services/order-onboarding.service.js:1204
+msgid "application.onboard.title.personal_details"
+msgstr "Dati personali"
+
+#: src/services/order-onboarding.service.js:1137
+#: src/services/order-onboarding.service.js:1141
+msgid "application.onboard.title.product"
+msgstr "Produkt"
+
+#: src/services/order-onboarding.service.js:1175
+msgid "application.onboard.title.tax_information"
+msgstr "Steuerinformationen"
+
+#: src/controllers/order/payin.action.js:114
+msgid "application.payin.text.iban_invalid_error_message"
+msgstr "IBAN ungültig"
+
+#: src/services/life-insurance.service.js:691
+msgid "application.payment-details.back-button-text"
+msgstr "ZURÜCK"
+
+#: src/services/life-insurance.service.js:689
+msgid "application.payment-details.bottom-text"
+msgstr ""
+"Sobald deine Überweisung bei uns eingegangen ist, stellen wir dir deine "
+"Versicherungspolice aus und deine Versicherung beginnt."
+
+#: src/services/life-insurance.service.js:654
+msgid "application.payment-details.header-title"
+msgstr "Fast geschafft!"
+
+#: src/services/life-insurance.service.js:648
+msgid "application.payment-details.premium-type.periodically"
+msgstr "Monatlich"
+
+#: src/services/life-insurance.service.js:647
+msgid "application.payment-details.premium-type.single"
+msgstr "Einmalig"
+
+#: src/services/life-insurance.service.js:683
+msgid "application.payment-details.send-bank-details-button"
+msgstr "Details per E-Mail senden"
+
+#: src/services/life-insurance.service.js:670
+msgid "application.payment-details.table.BIC"
+msgstr "BIC"
+
+#: src/services/life-insurance.service.js:666
+msgid "application.payment-details.table.IBAN"
+msgstr "IBAN"
+
+#: src/services/life-insurance.service.js:662
+msgid "application.payment-details.table.Name"
+msgstr "Name"
+
+#: src/services/life-insurance.service.js:658
+msgid "application.payment-details.table.amount"
+msgstr "Betrag"
+
+#: src/services/life-insurance.service.js:678
+msgid "application.payment-details.table.premium-type"
+msgstr "Premium type"
+
+#: src/services/life-insurance.service.js:674
+msgid "application.payment-details.table.reference"
+msgstr "Referenz"
+
+#: src/services/life-insurance.service.js:655
+msgid "application.payment-details.text-below-header"
+msgstr ""
+"Bitte überweise deine erste Einzahlung auf das folgende Konto unter "
+"Angabe der Referenz-Nummer."
+
+#: src/services/product-dashboard.service.js:109
+#: src/services/product-dashboard.service.js:122
+#: src/services/product-dashboard.v2.service.js:60
+#: src/services/product-dashboard.v2.service.js:75
+msgid "application.product.categories.description"
+msgstr "Bald erhältlich"
+
+#: src/services/product-dashboard.service.js:90
+#: src/services/product-dashboard.v2.service.js:37
+msgid "application.product.categories.life_insurance_change"
+msgstr "Servizio di cambio"
+
+#: src/services/product-dashboard.service.js:97
+#: src/services/product-dashboard.v2.service.js:46
+msgid "application.product.categories.life_insurance_change.description"
+msgstr "Bald erhältlich"
+
+#: src/services/product-dashboard.v2.service.js:105
+msgid "application.product.categories.link.label.activate"
+msgstr "Attiva"
+
+#: src/services/product-dashboard.v2.service.js:40
+#: src/services/product-dashboard.v2.service.js:54
+#: src/services/product-dashboard.v2.service.js:69
+msgid "application.product.categories.link.label.more"
+msgstr "Maggiori informazioni"
+
+#: src/services/product-dashboard.service.js:114
+#: src/services/product-dashboard.v2.service.js:65
+msgid "application.product.categories.prosperity_analysis"
+msgstr "Wohlstandsanalyse"
+
+#: src/services/product-dashboard.service.js:102
+#: src/services/product-dashboard.v2.service.js:51
+msgid "application.product.categories.special_deals"
+msgstr "Offerte bonus"
+
+#: src/views/products/change-life-insurance/teaser-page.js:12
+msgid "application.product.change_life_insurance.name"
+msgstr "Servizio di cambio"
+
+#: src/views/products/change-life-insurance/teaser-page.js:14
+msgid "application.product.change_life_insurance.subtitle"
+msgstr "IN ARRIVO"
+
+#: src/views/products/change-life-insurance/teaser-page.js:16
+msgid "application.product.change_life_insurance.teaser.description"
+msgstr ""
+"Possiedi già un’assicurazione sulla vita? E sei arrivato ad un bivio? "
+"Conosci il tuo reale valore di riscatto? Ci occupiamo noi di un cambio "
+"gratuito."
+
+#: src/services/product-dashboard.service.js:71
+#: src/services/product-dashboard.v2.service.js:139
+msgid "application.product.description.active"
+msgstr ""
+"Ti trovi nella tua panoramica di prodotto. Non hai ancora attivato il tuo"
+" prodotto. Scegli ora un’offerta dalla lista seguente."
+
+#: src/services/product-dashboard.service.js:78
+msgid "application.product.description.available"
+msgstr ""
+"Du bist auf dem neuesten Stand! Wir werden laufend neue Produkte "
+"verfügbar machen, schau also wieder mal vorbei, um dir weitere Angebote "
+"zu sichern."
+
+#: src/views/products/instruction-page.js:48
+msgid "application.product.instructions-page.first-image-title"
+msgstr "Ausweisdokument"
+
+#: src/views/products/instruction-page.js:25
+msgid "application.product.instructions-page.footer-text"
+msgstr "Wir sind verpflichtet an dein Finanzamt Bericht zu erstatten."
+
+#: src/views/products/instruction-page.js:21
+msgid "application.product.instructions-page.header-text"
+msgstr ""
+"Halte bitte deinen Personalausweis oder Reisepass sowie deine Steuer-"
+"Identifikationsnummer bereit."
+
+#: src/views/products/instruction-page.js:52
+msgid "application.product.instructions-page.second-image-title"
+msgstr "Steuer-Identifikationsnummer"
+
+#: src/views/products/instruction-page.js:17
+msgid "application.product.instructions-page.title"
+msgstr "Video-Identifikation"
+
+#: src/views/products/pension-plan/teaser-page.js:18
+msgid "application.product.pensionplan.name"
+msgstr "Piano pensionistico"
+
+#: src/views/products/pension-plan/teaser-page.js:22
+msgid "application.product.pensionplan.teaser.description"
+msgstr ""
+"Hai i vantaggi di una classica assicurazione sulla vita con una rendita e"
+" una copertura garantite in caso di decesso nonché di un moderno "
+"investimento di denaro"
+
+#: src/views/products/prosperity-analysis/teaser-page.js:12
+msgid "application.product.prosperity_analysis.name"
+msgstr "Analisi della situazione patrimoniale"
+
+#: src/views/products/prosperity-analysis/teaser-page.js:14
+msgid "application.product.prosperity_analysis.subtitle"
+msgstr "IN ARRIVO"
+
+#: src/views/products/prosperity-analysis/teaser-page.js:16
+msgid "application.product.prosperity_analysis.teaser.description"
+msgstr ""
+"Effetto sorpresa! Con l’analisi è possibile ottenere, sulla base dei dati"
+" del tuo conto, una panoramica completa della tipologia delle tue uscite,"
+" il potenziale e le opzioni di risparmio e le opzioni di accumulo sotto "
+"forma di analisi e diagrammi comprensibili"
+
+#: src/views/products/savings/teaser-page.js:12
+msgid "application.product.savings.name"
+msgstr "Sparkonto"
+
+#: src/views/products/savings/teaser-page.js:14
+msgid "application.product.savings.subtitle"
+msgstr "COMING SOON"
+
+#: src/views/products/savings/teaser-page.js:16
+msgid "application.product.savings.teaser.description"
+msgstr ""
+
+#: src/views/products/special-deals/teaser-page.js:12
+msgid "application.product.special_deals.name"
+msgstr "Offerte bonus"
+
+#: src/views/products/special-deals/teaser-page.js:14
+msgid "application.product.special_deals.subtitle"
+msgstr "IN ARRIVO"
+
+#: src/views/products/special-deals/teaser-page.js:16
+msgid "application.product.special_deals.teaser.description"
+msgstr ""
+"WOW! Vorresti partecipare all’assegnazione degli Oscar? O paghi troppi "
+"soldi per la tua palestra? Con le offerte bonus ti offriamo possibilità "
+"eccezionali per risparmiare denaro o approfittare di offerte esclusive."
+
+#: src/services/product-dashboard.service.js:51
+#: src/services/product-dashboard.v2.service.js:111
+msgid "application.product.text.description"
+msgstr "Bereite dich professionell auf den Ruhestand vor."
+
+#: src/services/product-dashboard.service.js:69
+msgid "application.product.types.active"
+msgstr "Meine Produktübersicht"
+
+#: src/services/product-dashboard.service.js:76
+msgid "application.product.types.available"
+msgstr "Prodotti disponibili"
+
+#: src/services/lifeware.service.js:330
+#: src/services/product-dashboard.service.js:83
+#: src/services/product-dashboard.service.js:91
+#: src/services/product-dashboard.service.js:103
+#: src/services/product-dashboard.service.js:115
+#: src/services/product-dashboard.v2.service.js:38
+#: src/services/product-dashboard.v2.service.js:52
+#: src/services/product-dashboard.v2.service.js:66
+msgid "application.product.types.coming_soon"
+msgstr "Disponibile prossimamente"
+
+#: src/views/products/instruction-page.js:30
+msgid "application.products.instructions-page.button.label"
+msgstr "Weiter"
+
+#: src/services/product-dashboard.v2.service.js:154
+msgid "application.products.more_products"
+msgstr "MEHR PRODUKTE"
+
+#: src/views/products/pension-plan/teaser-page.js:51
+msgid "application.products.pensionplan.teaser.button.label"
+msgstr "VOGLIO ADERIRE"
+
+#: src/views/products/pension-plan/teaser-page.js:26
+msgid "application.products.pensionplan.teaser.feature_1.description"
+msgstr ""
+"Da noi paghi 5€ al mese, se la somma delle entrate e uscite del periodo "
+"contrattuale ad oggi è stata inferiore a 10.000€ e all’1% sui capitali "
+"investiti esistenti all’anno."
+
+#: src/views/products/pension-plan/teaser-page.js:25
+msgid "application.products.pensionplan.teaser.feature_1.title"
+msgstr "TRASPARENTE E VANTAGGIOSO"
+
+#: src/views/products/pension-plan/teaser-page.js:32
+msgid "application.products.pensionplan.teaser.feature_2.description"
+msgstr ""
+"Riceverai un pagamento costante per tutta la vita una volta andato in "
+"pensione. Garantito."
+
+#: src/views/products/pension-plan/teaser-page.js:31
+msgid "application.products.pensionplan.teaser.feature_2.title"
+msgstr "PIANIFICABILE E SICURO"
+
+#: src/views/products/pension-plan/teaser-page.js:38
+msgid "application.products.pensionplan.teaser.feature_3.description"
+msgstr ""
+"Decidi tu quando e quanti soldi ricevere e versare. O se sospendere. O "
+"anche rescindere gratuitamente. Ma non sarebbe furbo."
+
+#: src/views/products/pension-plan/teaser-page.js:37
+msgid "application.products.pensionplan.teaser.feature_3.title"
+msgstr "FLESSIBILE"
+
+#: src/views/products/pension-plan/teaser-page.js:44
+msgid "application.products.pensionplan.teaser.feature_4.description"
+msgstr ""
+"Riceverai inoltre anche un vantaggio fiscale, poiché dovrai dichiarare "
+"gli utili solo alla fine del periodo con un’aliquota bassissima. Si "
+"tratta dell’effetto dell’interesse composto."
+
+#: src/views/products/pension-plan/teaser-page.js:43
+msgid "application.products.pensionplan.teaser.feature_4.title"
+msgstr "FLESSIBILE"
+
+#: src/services/sendEmail.service.js:101
+msgid "application.wire-money.failed_mail_sent.text"
+msgstr "E-Mail konnte nicht gesendet werden"
+
+#: src/services/sendEmail.service.js:95
+msgid "application.wire-money.success_mail_sent.text"
+msgstr "E-Mail gesendet"
+
+#: src/controllers/order/customer.action.js:108
+msgid "customer.mobile.error.format"
+msgstr ""
+"Bitte verwenden Sie folgendes Format für Ihre Mobil-Telefonnummer: "
+"+49123456789000"
+
+#: src/services/life-insurance.service.js:85
+#: src/services/life-insurance.service.js:93
+#: src/services/life-insurance.service.js:98
+msgid "test.cron.language.change"
+msgstr "[TRANSLATION] language: de"
+

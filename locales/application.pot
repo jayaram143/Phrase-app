@@ -1,0 +1,481 @@
+# Translations template for PROJECT.
+# Copyright (C) 2019 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2019-02-03 12:59+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#: src/services/email/asset-statement-email.js:22
+msgid "application.asset.statement.email.subject"
+msgstr ""
+
+#: src/services/lifeware.service.js:294
+#: src/services/product-dashboard.v2.service.js:440
+msgid "application.dashboard.actions.label.deposit"
+msgstr ""
+
+#: src/services/lifeware.service.js:285
+#: src/services/product-dashboard.v2.service.js:450
+msgid "application.dashboard.actions.label.pay_off"
+msgstr ""
+
+#: src/services/lifeware.service.js:321 src/services/lifeware.service.js:346
+#: src/services/lifeware.service.js:377
+msgid "application.dashboard.categories.button.edit"
+msgstr ""
+
+#: src/services/lifeware.service.js:352
+msgid "application.dashboard.categories.button.pause"
+msgstr ""
+
+#: src/services/lifeware.service.js:369
+msgid "application.dashboard.categories.subtitle_left.risk_life_insurance"
+msgstr ""
+
+#: src/services/lifeware.service.js:314
+msgid "application.dashboard.categories.subtitle_left.risk_profile"
+msgstr ""
+
+#: src/services/lifeware.service.js:338
+msgid "application.dashboard.categories.subtitle_left.saving_plan"
+msgstr ""
+
+#: src/services/lifeware.service.js:370
+msgid "application.dashboard.categories.subtitle_right.risk_life_insurance"
+msgstr ""
+
+#: src/services/lifeware.service.js:339
+msgid "application.dashboard.categories.subtitle_right.saving_plan"
+msgstr ""
+
+#: src/services/lifeware.service.js:361 src/services/lifeware.service.js:367
+msgid "application.dashboard.categories.title.risk_life_insurance"
+msgstr ""
+
+#: src/services/lifeware.service.js:312
+msgid "application.dashboard.categories.title.risk_profile"
+msgstr ""
+
+#: src/services/lifeware.service.js:336
+msgid "application.dashboard.categories.title.saving_plan"
+msgstr ""
+
+#: src/services/email/first-transaction-email.js:21
+msgid "application.first.transaction.email.subject"
+msgstr ""
+
+#: src/services/email/money-transfer-email.js:29
+msgid "application.money_transfer_email.text.subject"
+msgstr ""
+
+#: src/services/product-dashboard.v2.service.js:280
+msgid "application.notification.description.transaction.pending"
+msgstr ""
+
+#: src/services/product-dashboard.v2.service.js:279
+msgid "application.notification.description.transaction.pending.periodic"
+msgstr ""
+
+#: src/services/product-dashboard.v2.service.js:274
+msgid "application.notification.title.transaction.pending.periodic"
+msgstr ""
+
+#: src/services/product-dashboard.v2.service.js:276
+msgid "application.notification.title.transaction.pending.singular"
+msgstr ""
+
+#: src/services/order-onboarding.service.js:1163
+msgid "application.onboard.button.text.change"
+msgstr ""
+
+#: src/services/order-onboarding.service.js:1153
+#: src/services/order-onboarding.service.js:1175
+#: src/services/order-onboarding.service.js:1204
+#: src/services/order-onboarding.service.js:1222
+#: src/services/order-onboarding.service.js:1240
+msgid "application.onboard.button.text.edit"
+msgstr ""
+
+#: src/services/order-onboarding.service.js:1243
+msgid "application.onboard.health.checkbox_1"
+msgstr ""
+
+#: src/services/order-onboarding.service.js:1242
+msgid "application.onboard.health.checkbox_2"
+msgstr ""
+
+#: src/services/order-onboarding.service.js:1208
+msgid "application.onboard.keys.birth_date"
+msgstr ""
+
+#: src/services/order-onboarding.service.js:1155
+msgid "application.onboard.keys.text.amount"
+msgstr ""
+
+#: src/services/order-onboarding.service.js:1227
+msgid "application.onboard.keys.text.country"
+msgstr ""
+
+#: src/services/order-onboarding.service.js:1207
+msgid "application.onboard.keys.text.full_name"
+msgstr ""
+
+#: src/services/order-onboarding.service.js:1156
+msgid "application.onboard.keys.text.fund_source"
+msgstr ""
+
+#: src/services/order-onboarding.service.js:1206
+msgid "application.onboard.keys.text.gender"
+msgstr ""
+
+#: src/services/order-onboarding.service.js:1211
+msgid "application.onboard.keys.text.industry"
+msgstr ""
+
+#: src/services/order-onboarding.service.js:1210
+msgid "application.onboard.keys.text.marital_status"
+msgstr ""
+
+#: src/services/order-onboarding.service.js:1212
+msgid "application.onboard.keys.text.occupation"
+msgstr ""
+
+#: src/services/order-onboarding.service.js:1157
+msgid "application.onboard.keys.text.payment_reason"
+msgstr ""
+
+#: src/services/order-onboarding.service.js:1140
+#: src/services/product-dashboard.service.js:44
+#: src/services/product-dashboard.v2.service.js:101
+msgid "application.onboard.keys.text.pension_plan"
+msgstr ""
+
+#: src/services/order-onboarding.service.js:1209
+msgid "application.onboard.keys.text.phone"
+msgstr ""
+
+#: src/services/order-onboarding.service.js:1224
+msgid "application.onboard.keys.text.street_detail"
+msgstr ""
+
+#: src/services/order-onboarding.service.js:1178
+msgid "application.onboard.keys.text.tax_country"
+msgstr ""
+
+#: src/services/order-onboarding.service.js:1177
+msgid "application.onboard.keys.text.tax_id"
+msgstr ""
+
+#: src/services/order-onboarding.service.js:1226
+msgid "application.onboard.keys.text.zip"
+msgstr ""
+
+#: src/services/order-onboarding.service.js:1222
+msgid "application.onboard.title.address_details"
+msgstr ""
+
+#: src/services/order-onboarding.service.js:1240
+msgid "application.onboard.title.health_details"
+msgstr ""
+
+#: src/services/order-onboarding.service.js:1153
+msgid "application.onboard.title.initial_payment"
+msgstr ""
+
+#: src/services/order-onboarding.service.js:1153
+msgid "application.onboard.title.monthly_payment"
+msgstr ""
+
+#: src/services/order-onboarding.service.js:1163
+msgid "application.onboard.title.my_risk_profile"
+msgstr ""
+
+#: src/services/order-onboarding.service.js:1204
+msgid "application.onboard.title.personal_details"
+msgstr ""
+
+#: src/services/order-onboarding.service.js:1137
+#: src/services/order-onboarding.service.js:1141
+msgid "application.onboard.title.product"
+msgstr ""
+
+#: src/services/order-onboarding.service.js:1175
+msgid "application.onboard.title.tax_information"
+msgstr ""
+
+#: src/controllers/order/payin.action.js:114
+msgid "application.payin.text.iban_invalid_error_message"
+msgstr ""
+
+#: src/services/life-insurance.service.js:691
+msgid "application.payment-details.back-button-text"
+msgstr ""
+
+#: src/services/life-insurance.service.js:689
+msgid "application.payment-details.bottom-text"
+msgstr ""
+
+#: src/services/life-insurance.service.js:654
+msgid "application.payment-details.header-title"
+msgstr ""
+
+#: src/services/life-insurance.service.js:648
+msgid "application.payment-details.premium-type.periodically"
+msgstr ""
+
+#: src/services/life-insurance.service.js:647
+msgid "application.payment-details.premium-type.single"
+msgstr ""
+
+#: src/services/life-insurance.service.js:683
+msgid "application.payment-details.send-bank-details-button"
+msgstr ""
+
+#: src/services/life-insurance.service.js:670
+msgid "application.payment-details.table.BIC"
+msgstr ""
+
+#: src/services/life-insurance.service.js:666
+msgid "application.payment-details.table.IBAN"
+msgstr ""
+
+#: src/services/life-insurance.service.js:662
+msgid "application.payment-details.table.Name"
+msgstr ""
+
+#: src/services/life-insurance.service.js:658
+msgid "application.payment-details.table.amount"
+msgstr ""
+
+#: src/services/life-insurance.service.js:678
+msgid "application.payment-details.table.premium-type"
+msgstr ""
+
+#: src/services/life-insurance.service.js:674
+msgid "application.payment-details.table.reference"
+msgstr ""
+
+#: src/services/life-insurance.service.js:655
+msgid "application.payment-details.text-below-header"
+msgstr ""
+
+#: src/services/product-dashboard.service.js:109
+#: src/services/product-dashboard.service.js:122
+#: src/services/product-dashboard.v2.service.js:60
+#: src/services/product-dashboard.v2.service.js:75
+msgid "application.product.categories.description"
+msgstr ""
+
+#: src/services/product-dashboard.service.js:90
+#: src/services/product-dashboard.v2.service.js:37
+msgid "application.product.categories.life_insurance_change"
+msgstr ""
+
+#: src/services/product-dashboard.service.js:97
+#: src/services/product-dashboard.v2.service.js:46
+msgid "application.product.categories.life_insurance_change.description"
+msgstr ""
+
+#: src/services/product-dashboard.v2.service.js:105
+msgid "application.product.categories.link.label.activate"
+msgstr ""
+
+#: src/services/product-dashboard.v2.service.js:40
+#: src/services/product-dashboard.v2.service.js:54
+#: src/services/product-dashboard.v2.service.js:69
+msgid "application.product.categories.link.label.more"
+msgstr ""
+
+#: src/services/product-dashboard.service.js:114
+#: src/services/product-dashboard.v2.service.js:65
+msgid "application.product.categories.prosperity_analysis"
+msgstr ""
+
+#: src/services/product-dashboard.service.js:102
+#: src/services/product-dashboard.v2.service.js:51
+msgid "application.product.categories.special_deals"
+msgstr ""
+
+#: src/views/products/change-life-insurance/teaser-page.js:12
+msgid "application.product.change_life_insurance.name"
+msgstr ""
+
+#: src/views/products/change-life-insurance/teaser-page.js:14
+msgid "application.product.change_life_insurance.subtitle"
+msgstr ""
+
+#: src/views/products/change-life-insurance/teaser-page.js:16
+msgid "application.product.change_life_insurance.teaser.description"
+msgstr ""
+
+#: src/services/product-dashboard.service.js:71
+#: src/services/product-dashboard.v2.service.js:139
+msgid "application.product.description.active"
+msgstr ""
+
+#: src/services/product-dashboard.service.js:78
+msgid "application.product.description.available"
+msgstr ""
+
+#: src/views/products/instruction-page.js:48
+msgid "application.product.instructions-page.first-image-title"
+msgstr ""
+
+#: src/views/products/instruction-page.js:25
+msgid "application.product.instructions-page.footer-text"
+msgstr ""
+
+#: src/views/products/instruction-page.js:21
+msgid "application.product.instructions-page.header-text"
+msgstr ""
+
+#: src/views/products/instruction-page.js:52
+msgid "application.product.instructions-page.second-image-title"
+msgstr ""
+
+#: src/views/products/instruction-page.js:17
+msgid "application.product.instructions-page.title"
+msgstr ""
+
+#: src/views/products/pension-plan/teaser-page.js:18
+msgid "application.product.pensionplan.name"
+msgstr ""
+
+#: src/views/products/pension-plan/teaser-page.js:22
+msgid "application.product.pensionplan.teaser.description"
+msgstr ""
+
+#: src/views/products/prosperity-analysis/teaser-page.js:12
+msgid "application.product.prosperity_analysis.name"
+msgstr ""
+
+#: src/views/products/prosperity-analysis/teaser-page.js:14
+msgid "application.product.prosperity_analysis.subtitle"
+msgstr ""
+
+#: src/views/products/prosperity-analysis/teaser-page.js:16
+msgid "application.product.prosperity_analysis.teaser.description"
+msgstr ""
+
+#: src/views/products/savings/teaser-page.js:12
+msgid "application.product.savings.name"
+msgstr ""
+
+#: src/views/products/savings/teaser-page.js:14
+msgid "application.product.savings.subtitle"
+msgstr ""
+
+#: src/views/products/savings/teaser-page.js:16
+msgid "application.product.savings.teaser.description"
+msgstr ""
+
+#: src/views/products/special-deals/teaser-page.js:12
+msgid "application.product.special_deals.name"
+msgstr ""
+
+#: src/views/products/special-deals/teaser-page.js:14
+msgid "application.product.special_deals.subtitle"
+msgstr ""
+
+#: src/views/products/special-deals/teaser-page.js:16
+msgid "application.product.special_deals.teaser.description"
+msgstr ""
+
+#: src/services/product-dashboard.service.js:51
+#: src/services/product-dashboard.v2.service.js:111
+msgid "application.product.text.description"
+msgstr ""
+
+#: src/services/product-dashboard.service.js:69
+msgid "application.product.types.active"
+msgstr ""
+
+#: src/services/product-dashboard.service.js:76
+msgid "application.product.types.available"
+msgstr ""
+
+#: src/services/lifeware.service.js:330
+#: src/services/product-dashboard.service.js:83
+#: src/services/product-dashboard.service.js:91
+#: src/services/product-dashboard.service.js:103
+#: src/services/product-dashboard.service.js:115
+#: src/services/product-dashboard.v2.service.js:38
+#: src/services/product-dashboard.v2.service.js:52
+#: src/services/product-dashboard.v2.service.js:66
+msgid "application.product.types.coming_soon"
+msgstr ""
+
+#: src/views/products/instruction-page.js:30
+msgid "application.products.instructions-page.button.label"
+msgstr ""
+
+#: src/services/product-dashboard.v2.service.js:154
+msgid "application.products.more_products"
+msgstr ""
+
+#: src/views/products/pension-plan/teaser-page.js:51
+msgid "application.products.pensionplan.teaser.button.label"
+msgstr ""
+
+#: src/views/products/pension-plan/teaser-page.js:26
+msgid "application.products.pensionplan.teaser.feature_1.description"
+msgstr ""
+
+#: src/views/products/pension-plan/teaser-page.js:25
+msgid "application.products.pensionplan.teaser.feature_1.title"
+msgstr ""
+
+#: src/views/products/pension-plan/teaser-page.js:32
+msgid "application.products.pensionplan.teaser.feature_2.description"
+msgstr ""
+
+#: src/views/products/pension-plan/teaser-page.js:31
+msgid "application.products.pensionplan.teaser.feature_2.title"
+msgstr ""
+
+#: src/views/products/pension-plan/teaser-page.js:38
+msgid "application.products.pensionplan.teaser.feature_3.description"
+msgstr ""
+
+#: src/views/products/pension-plan/teaser-page.js:37
+msgid "application.products.pensionplan.teaser.feature_3.title"
+msgstr ""
+
+#: src/views/products/pension-plan/teaser-page.js:44
+msgid "application.products.pensionplan.teaser.feature_4.description"
+msgstr ""
+
+#: src/views/products/pension-plan/teaser-page.js:43
+msgid "application.products.pensionplan.teaser.feature_4.title"
+msgstr ""
+
+#: src/services/sendEmail.service.js:101
+msgid "application.wire-money.failed_mail_sent.text"
+msgstr ""
+
+#: src/services/sendEmail.service.js:95
+msgid "application.wire-money.success_mail_sent.text"
+msgstr ""
+
+#: src/controllers/order/customer.action.js:108
+msgid "customer.mobile.error.format"
+msgstr ""
+
+#: src/services/life-insurance.service.js:85
+#: src/services/life-insurance.service.js:93
+#: src/services/life-insurance.service.js:98
+msgid "test.cron.language.change"
+msgstr ""
+
