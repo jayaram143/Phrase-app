@@ -1,0 +1,14 @@
+phraseapp:
+  access_token: 4a1fdf2e473c85383bf59c3e7e019834107f153e88317bbb43bdbf8cee9ada75
+  project_id: e6571e421f13ecf40f113fbeed1109a9
+  push:
+   sources:
+     - file: ./locales/<locale_name>/<locale_name>.po
+       params:
+         file_format: gettext
+  pull:
+   targets:
+     - file: ./locales/<locale_name>/<locale_name>.po
+       params:
+         file_format: gettext
+      
